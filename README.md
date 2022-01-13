@@ -1,2 +1,3 @@
 # hello-world2
-short descirption
+short description
+my name is jordan
